@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![lLipe-Brl GitHub stats](https://github-readme-stats.vercel.app/api?username=llipeibrl)](https://github.com/lLipe-Brl/github-readme-stats)
+[![lLipe-Brl GitHub stats](https://github-readme-stats.vercel.app/api?username=llipe-brl)](https://github.com/lLipe-Brl/github-readme-stats)
+
 📘Atualmente estou estudando no SESI
 
 📕Atualmente estou estudando no SENAI 
