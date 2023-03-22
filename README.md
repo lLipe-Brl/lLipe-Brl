@@ -14,20 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![lLipe-Brl GitHub stats](https://github-readme-stats.vercel.app/api?username=llipeibrl)](https://github.com/lLipe-Brl/github-readme-stats)
+📘Atualmente estou estudando no SESI
+
 📕Atualmente estou estudando no SENAI 
 
 💻Cursando Técnico em Desenvolvimento de Sistemas
 
-🏀Gosto muito de Esportes! 
-
-🏎Admiro o Automobilismo!
-
 📧E-mail: filipemarin7@gmail.com
 
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="50" height="50" />
-           
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
+                    
 ## Estou Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /> 
 
