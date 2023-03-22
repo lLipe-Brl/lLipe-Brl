@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /> 
 
 ## Painel
-<div> 
-<a href="https://github.com/llipe-brl"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?llipe-brl-aqui&layout=compact&langs_count=7&theme=dracula"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?llipe-brl-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
+<div>
+<a href="https://github.com/lLipe-Brl">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLipe-Brl&layout=compact&langs_count=7&theme=dracula"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lLipe-Brl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
 
 
