@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Atualmente estou estudando no SENAI. Tenho aulas de ADS. Gosto muito de esportes, filmes, series e games! Admiro muito o Automobilismo!
+Atualmente estou estudando no SENAI 
+
+Cursando Técnico em Desenvolvimento de Sistemas
+
+Gosto muito de esportes, filmes, series e games! 
+
+Admiro muito o Automobilismo!
