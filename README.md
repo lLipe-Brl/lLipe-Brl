@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 📧E-mail: filipemarin7@gmail.com
 
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="50" height="50" />
            
 
 ## Estou Aprendendo
