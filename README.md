@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Atualmente estou estudando no SENAI 
+📕Atualmente estou estudando no SENAI 
 
-Cursando Técnico em Desenvolvimento de Sistemas
+💻Cursando Técnico em Desenvolvimento de Sistemas
 
-Gosto muito de esportes, filmes, series e games! 
+🏀Gosto muito de Esportes! 
 
-Admiro muito o Automobilismo!
+🏎Admiro o Automobilismo!
+
+## Ferramentas e Tecnologias
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
