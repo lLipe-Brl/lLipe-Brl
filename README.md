@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Filipe+Marin%20&fontAlignY=40&color=4682B4)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Filipe+Marin%20&fontAlignY=40&color=gradient)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F4F4F&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Filipe+Marin;Tenho+16+anos;Eu+Estou+estudando+no+SENAI+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
