@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Filipe+Marin%20&fontAlignY=40&color=gradient)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F4F4F&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Filipe+Marin;Tenho+16+anos;Eu+Estou+estudando+no+SENAI+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F4F4F&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Filipe+Marin;Tenho+18+anos;Eu+Estou+cursando+no+SENAI-SP+Informática+Ciência+de+Dados;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 
 ## <img src="https://img.icons8.com/?size=512&id=wNZ3FTgUzSQX&format=png" width="40" height="40">  Estou estudando no momento
