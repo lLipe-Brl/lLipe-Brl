@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F4F4F&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Filipe+Marin;Tenho+18+anos;Eu+Estou+cursando+no+SENAI-SP;Superior+de+Ciência+de+Dados;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-## <img src="https://img.icons8.com/?size=512&id=wNZ3FTgUzSQX&format=png" width="40" height="40">  Estou estudando no momento
+## <img src="https://img.icons8.com/?size=512&id=wNZ3FTgUzSQX&format=png" width="40" height="40">  O que eu aprendi
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -19,19 +19,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PhpMyAdmin_logo.png" height="40" alt="phpmyadmin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div><br>
-
-## <img src="https://img.icons8.com/?size=512&id=5Fq9EkIgnDeR&format=png" width="40" height="40"> Apps que uso
-
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="40"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-</div>
-
-<br><br>
+</div><br>
 
 ## Painel
 <div> 
