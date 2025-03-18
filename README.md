@@ -4,7 +4,10 @@
 
 ## <img src="https://img.icons8.com/?size=512&id=wNZ3FTgUzSQX&format=png" width="40" height="40">  O que eu aprendi
 <div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" href="https://www.linkedin.com/in/filipe-marin-5343702b6/"height="40" alt="html5 logo"  />
+  <a href="https://www.linkedin.com/in/filipe-marin-5343702b6/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="100">
+</a>
+
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
