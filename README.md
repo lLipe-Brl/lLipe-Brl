@@ -4,6 +4,7 @@
 
 ## <img src="https://img.icons8.com/?size=512&id=wNZ3FTgUzSQX&format=png" width="40" height="40">  O que eu aprendi
 <div align="left">
+  <button href="https://www.linkedin.com/in/filipe-marin-5343702b6/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
