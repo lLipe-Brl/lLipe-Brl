@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/filipe-marin-5343702b6/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">
 </a>
-
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
