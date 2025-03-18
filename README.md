@@ -5,7 +5,7 @@
 ## <img src="https://img.icons8.com/?size=512&id=wNZ3FTgUzSQX&format=png" width="40" height="40">  O que eu aprendi
 <div align="left">
   <a href="https://www.linkedin.com/in/filipe-marin-5343702b6/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">
 </a>
 
   
