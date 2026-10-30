@@ -1,5 +1,5 @@
-<div align="center">!
-[Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Filipe+Marin&fontAlignY=40&color=gradient)
+<div align="center">
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Filipe+Marin&fontAlignY=40&color=gradient)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7AA2F7&size=25&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Filipe+Marin!;Estudante+de+Ciência+de+Dados;Técnico+em+Análise+e+Desenvolvimento+de+Sistemas;Data+Science+%7C+Machine+Learning;Deep+Learning+%7C+Artificial+Intelligence;Seja+bem-vindo+ao+meu+GitHub!+%3A%29)](https://git.io/typing-svg)
 </div>
