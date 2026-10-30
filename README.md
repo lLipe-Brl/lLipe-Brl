@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="left">
+<div align="center">
 
 <img height="180em"
 src="https://github-stats-extended.vercel.app/api?username=lLipe-Brl&show_icons=true&theme=tokyonight&hide_border=true"/>
