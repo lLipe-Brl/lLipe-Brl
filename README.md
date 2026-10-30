@@ -35,8 +35,12 @@
 </div><br>
 
 ## Painel
-<div> 
-<a href="https://github.com/lLipe-Brl"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLipe-Brl&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lLipe-Brl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lLipe-Brl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLipe-Brl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lLipe-Brl&bg_color=0d1117&color=4682B4&line=4682B4&point=00FF7F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
