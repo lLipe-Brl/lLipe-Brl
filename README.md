@@ -36,10 +36,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
 
 <img height="180em"
 src="https://github-stats-extended.vercel.app/api?username=lLipe-Brl&show_icons=true&theme=tokyonight&hide_border=true"/>
+<pre>
 <img height="180em"
 src="https://github-stats-extended.vercel.app/api/top-langs/?username=lLipe-Brl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
